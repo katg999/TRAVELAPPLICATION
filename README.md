@@ -1,8 +1,4 @@
-# ✈️ Travel Application
-
-<div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVpNDMxODhqNDE3em9pdmVpMGRxZWt4eXN0b2RhenJ5b3ViNGxhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/14wXMGbHjXK2k0/giphy.gif" alt="Intro GIF" width="700" />
-</div>
+![Here We Go](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJid3F1aXo4cGcxMnZyM3JvYTlqaXpjcjV2c2N0bW5nZWlvYmFqMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/14wXMGbHjXK2k0/giphy.gif)
 
 ## 🌍 Live Demo
 
