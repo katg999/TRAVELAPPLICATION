@@ -11,6 +11,6 @@ This Travel Application enables a traveler to:
 - Add items to their packing list.
 - Click on items to mark them as packed.
 - Sort items by:
-  - Input order
+  - Input Order
   - Description
-  - Packed status
+  - Packed Status
